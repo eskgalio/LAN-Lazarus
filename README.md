@@ -151,10 +151,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## ⚠️ Disclaimer
 
 This tool requires administrative privileges to function properly. Use with caution and understanding of network operations. The authors are not responsible for any network disruptions or issues that may arise from using this tool.
@@ -164,14 +160,3 @@ This tool requires administrative privileges to function properly. Use with caut
 - Network diagnostic tool communities
 - Python networking library contributors
 - Open source network utility developers
-
-## 📞 Support
-
-For support, please:
-1. Check the [Issues](https://github.com/yourusername/lan-lazarus/issues) page
-2. Review existing documentation
-3. Open a new issue if needed
-
----
-
-Made with 💀 by Network Necromancers 
